@@ -46,4 +46,4 @@ class App < NYNY::App
   end
 end
 
-App.run! 61515
+App.run! 61515 if __FILE__ == $0
